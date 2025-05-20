@@ -1,0 +1,24 @@
+{
+  "locales": {
+    "en": {
+      "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/3db345e4-f932-40cf-b0b3-59be78623187/1276%20X%20720%20winner.jpg?auto=format%2Ccompress",
+      "link": "sportsbook/event/12624416",
+      "linkType": "href"
+    },
+    "ka": {
+      "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/3db345e4-f932-40cf-b0b3-59be78623187/1276%20X%20720%20winner.jpg?auto=format%2Ccompress",
+      "link": "sportsbook/event/12624416",
+      "linkType": "href"
+    },
+    "ru": {
+      "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/3db345e4-f932-40cf-b0b3-59be78623187/1276%20X%20720%20winner.jpg?auto=format%2Ccompress",
+      "link": "sportsbook/event/12624416",
+      "linkType": "href"
+    },
+    "tr": {
+      "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/3db345e4-f932-40cf-b0b3-59be78623187/1276%20X%20720%20winner.jpg?auto=format%2Ccompress",
+      "link": "sportsbook/event/12624416",
+      "linkType": "href"
+    }
+  }
+}
