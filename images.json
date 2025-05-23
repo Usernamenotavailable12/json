@@ -1,26 +1,24 @@
 {
   "locales": {
     "en": {
-      "imageUrl": "https://www.ambassadoribet.com/_internal/ts-images/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/ea17c198-34b6-46f6-a5a5-fa9dcc293eae/mob%20en.webp",
+      "imageUrl": "https://www.ambassadoribet.com/_internal/ts-images/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/ea17c198-34b6-46f6-a5a5-fa9dcc293eae/mob%20en.webp?dpr=1",
       "link": "/bonuse-wheel",
       "linkType": "href"
     },
     "ka": {
-      "imageUrl": "https://www.ambassadoribet.com/_internal/ts-images/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/5f4aec64-0360-4e97-a567-83c8deb67e2c/mob%20ka.webp",
+      "imageUrl": "https://www.ambassadoribet.com/_internal/ts-images/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/5f4aec64-0360-4e97-a567-83c8deb67e2c/mob%20ka.webp?dpr=1",
       "link": "/bonuse-wheel",
       "linkType": "href"
     },
     "ru": {
-      "imageUrl": "https://www.ambassadoribet.com/_internal/ts-images/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/ea17c198-34b6-46f6-a5a5-fa9dcc293eae/mob%20en.webp",
+      "imageUrl": "https://www.ambassadoribet.com/_internal/ts-images/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/ea17c198-34b6-46f6-a5a5-fa9dcc293eae/mob%20en.webp?dpr=1",
       "link": "/bonuse-wheel",
       "linkType": "href"
     },
     "tr": {
-      "imageUrl": "https://www.ambassadoribet.com/_internal/ts-images/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/ea17c198-34b6-46f6-a5a5-fa9dcc293eae/mob%20en.webp",
+      "imageUrl": "https://www.ambassadoribet.com/_internal/ts-images/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/ea17c198-34b6-46f6-a5a5-fa9dcc293eae/mob%20en.webp?dpr=1",
       "link": "/bonuse-wheel",
       "linkType": "href"
     }
   }
 }
-
-
