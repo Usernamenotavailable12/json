@@ -1,23 +1,23 @@
 {
   "locales": {
     "en": {
-      "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/fc0be0d8-e252-46d6-83e4-f0c565804c01/1276%20X%2072%E1%83%93%E1%83%95%E1%83%93%E1%83%95%E1%83%93%E1%83%950%20%20%E1%83%90%E1%83%AC%E1%83%98%E1%83%94%20%E1%83%AE%E1%83%94%E1%83%9A%E1%83%98%201.png?auto=format%2Ccompress",
-      "link": "/leaderboard-52",
+      "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/3d3be0ca-9526-4160-ba92-2fc32a13fa34/fffmaindesen.jpg?auto=format%2Ccompress",
+      "link": "/sportsbook",
       "linkType": "href"
     },
     "ka": {
-      "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/b85c9c94-3281-4278-8366-d3e6936e6fe7/1276%20X%20720111%20%20%E1%83%90%E1%83%AC%E1%83%98%E1%83%94%20%E1%83%AE%E1%83%94%E1%83%9A%E1%83%98%201.png?auto=format%2Ccompress",
-      "link": "/leaderboard-52",
+      "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/eebdc40d-2900-41c0-8f77-9d0d8dbe4864/fffmaindeska.jpg?auto=format%2Ccompress",
+      "link": "/sportsbook",
       "linkType": "href"
     },
     "ru": {
-      "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/e8ebdebf-7a4c-404f-bd46-797b9527fdd2/1276%20X%20720%20%E1%83%AA%E1%83%93%E1%83%AA%E1%83%93%E1%83%AA%20%E1%83%90%E1%83%AC%E1%83%98%E1%83%94%20%E1%83%AE%E1%83%94%E1%83%9A%E1%83%98%201.png?auto=format%2Ccompress",
-      "link": "/leaderboard-52",
+      "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/2cdbf2c0-446f-45f2-a4b1-43aff5f9a3a4/fffmaindesru.jpg?auto=format%2Ccompress",
+      "link": "/sportsbook",
       "linkType": "href"
     },
     "tr": {
-      "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/a341fb35-31d9-4dcf-bc88-e01a45cb0ca6/1276%20X%20720%20%20%E1%83%90%E1%83%AC%E1%83%98%E1%83%94%20%E1%83%AE%E1%83%94%E1%83%9A%E1%83%98%201.png?auto=format%2Ccompress",
-      "link": "/leaderboard-52",
+      "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/3d3be0ca-9526-4160-ba92-2fc32a13fa34/fffmaindesen.jpg?auto=format%2Ccompress",
+      "link": "/sportsbook",
       "linkType": "href"
     }
   }
