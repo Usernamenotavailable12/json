@@ -1,22 +1,22 @@
 {
   "locales": {
     "en": {
-      "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/3d3be0ca-9526-4160-ba92-2fc32a13fa34/fffmaindesen.jpg?auto=format%2Ccompress",
+      "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/1a7a5d96-fb1a-4252-8311-90b353b44c7c/pop_up_english.jpg?auto=format%2Ccompress",
       "link": "/sportsbook",
       "linkType": "href"
     },
     "ka": {
-      "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/eebdc40d-2900-41c0-8f77-9d0d8dbe4864/fffmaindeska.jpg?auto=format%2Ccompress",
+      "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/3ce977c8-4df8-44d7-960f-ca2c9ae9fb5d/pop_up_georgian.jpg?auto=format%2Ccompress",
       "link": "/sportsbook",
       "linkType": "href"
     },
     "ru": {
-      "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/2cdbf2c0-446f-45f2-a4b1-43aff5f9a3a4/fffmaindesru.jpg?auto=format%2Ccompress",
+      "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/29d7e04f-c76e-403f-a04d-cdc32601f8e8/pop_up_rus.jpg?auto=format%2Ccompress",
       "link": "/sportsbook",
       "linkType": "href"
     },
     "tr": {
-      "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/3d3be0ca-9526-4160-ba92-2fc32a13fa34/fffmaindesen.jpg?auto=format%2Ccompress",
+      "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/1a7a5d96-fb1a-4252-8311-90b353b44c7c/pop_up_english.jpg?auto=format%2Ccompress",
       "link": "/sportsbook",
       "linkType": "href"
     }
