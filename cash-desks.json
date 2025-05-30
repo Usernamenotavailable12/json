@@ -1,0 +1,1443 @@
+[
+  {
+    "id": 1,
+    "location": "Tbilisi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "Tbilisi, ჭავჭავაძის გამზ. 74",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3284.8337306405565!2d44.745229099999996!3d41.710676199999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4044734711362957%3A0xa36cab00400301c5!2s74%2C%2074%20Ilia%20Chavchavadze%20Avenue%2C%20T'bilisi!5e1!3m2!1sen!2sge!4v1748622520258!5m2!1sen!2sge"
+  },
+  {
+    "id": 2,
+    "location": "Dmanisi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "დმანისი, წმინდა ნინოს ქ. 41",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=წმინდა+ნინოს+ქ.+41,დმანისი,Georgia&zoom=15"
+  },
+  {
+    "id": 3,
+    "location": "Tbilisi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "Tbilisi, წერეთლის გამზ. 126",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=წერეთლის+გამზ.+126,Tbilisi,Georgia&zoom=15"
+  },
+  {
+    "id": 4,
+    "location": "Tbilisi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "Tbilisi, ჭიჭინაძის ქ. 27",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ჭიჭინაძის+ქ.+27,Tbilisi,Georgia&zoom=15"
+  },
+  {
+    "id": 5,
+    "location": "Tbilisi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "Tbilisi, კახეთის შესახვევი 2",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=კახეთის+შესახვევი+2,Tbilisi,Georgia&zoom=15"
+  },
+  {
+    "id": 6,
+    "location": "Tbilisi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "Tbilisi, გორგასლის ქ. 37",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=გორგასლის+ქ.+37,Tbilisi,Georgia&zoom=15"
+  },
+  {
+    "id": 7,
+    "location": "Tbilisi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "Tbilisi, ი. პეტრიწის ქ. 9",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ი.+პეტრიწის+ქ.+9,Tbilisi,Georgia&zoom=15"
+  },
+  {
+    "id": 8,
+    "location": "Tbilisi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "Tbilisi, საქსოფმანქანის დასახლება, მე-2 კვარტალი, კორპუსი 8",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=საქსოფმანქანის+დასახლება,+მე-2+კვარტალი,+კორპუსი+8,Tbilisi,Georgia&zoom=15"
+  },
+  {
+    "id": 9,
+    "location": "Telavi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "თელავი, ალაზნის გამზ. 43",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ალაზნის+გამზ.+43,თელავი,Georgia&zoom=15"
+  },
+  {
+    "id": 10,
+    "location": "Tbilisi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "Tbilisi, დ. აბაშიძის ქ. 3",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=დ.+აბაშიძის+ქ.+3,Tbilisi,Georgia&zoom=15"
+  },
+  {
+    "id": 11,
+    "location": "Tbilisi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "Tbilisi, მოსკოვის გამზ. 37",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=მოსკოვის+გამზ.+37,Tbilisi,Georgia&zoom=15"
+  },
+  {
+    "id": 12,
+    "location": "Tbilisi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "Tbilisi, ვარკეთილის 3 მ/რ, კორპუსი 310",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ვარკეთილის+3+მ/რ,+კორპუსი+310,Tbilisi,Georgia&zoom=15"
+  },
+  {
+    "id": 13,
+    "location": "Rustavi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "რუსთავი, მესხიშვილის ქ. 1ა",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=მესხიშვილის+ქ.+1ა,რუსთავი,Georgia&zoom=15"
+  },
+  {
+    "id": 14,
+    "location": "Tbilisi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "Tbilisi, თემქის მე-10 კვარტალი, კორპუსი 28-ის მიმდებარედ",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=თემქის+მე-10+კვარტალი,+კორპუსი+28-ის+მიმდებარედ,Tbilisi,Georgia&zoom=15"
+  },
+  {
+    "id": 15,
+    "location": "Tbilisi",
+    "bankType": "Liberty",
+    "hours": [
+      "24/7"
+    ],
+    "status": "",
+    "address": "Tbilisi, გურამიშვილის გამზ. 12ა",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=გურამიშვილის+გამზ.+12ა,Tbilisi,Georgia&zoom=15"
+  },
+  {
+    "id": 16,
+    "location": "Tbilisi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "Tbilisi, შანდორ პეტefiს ქ. 4 მ/რ, 1 კვ.",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=შანდორ+პეტefiს+ქ.+4+მ/რ,+1+კვ.,Tbilisi,Georgia&zoom=15"
+  },
+  {
+    "id": 17,
+    "location": "Tbilisi",
+    "bankType": "Liberty",
+    "hours": [
+      "24/7"
+    ],
+    "status": "",
+    "address": "Tbilisi, ბუდაპეშტის ქ. 6",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ბუდაპეშტის+ქ.+6,Tbilisi,Georgia&zoom=15"
+  },
+  {
+    "id": 18,
+    "location": "Tbilisi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "Tbilisi, ლიბანის ქ. 19-25",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ლიბანის+ქ.+19-25,Tbilisi,Georgia&zoom=15"
+  },
+  {
+    "id": 19,
+    "location": "Tbilisi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "Tbilisi, ვაჟა ფშაველას გამზ. 55",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ვაჟა+ფშაველას+გამზ.+55,Tbilisi,Georgia&zoom=15"
+  },
+  {
+    "id": 20,
+    "location": "Tbilisi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "Tbilisi, ფონიჭალის დასახლება, მე-3 მ/რ, შენობა 2",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ფონიჭალის+დასახლება,+მე-3+მ/რ,+შენობა+2,Tbilisi,Georgia&zoom=15"
+  },
+  {
+    "id": 21,
+    "location": "Tsnoris",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "წნორი, დავით აღმაშენებლის 28",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=დავით+აღმაშენებლის+28,წნორი,Georgia&zoom=15"
+  },
+  {
+    "id": 22,
+    "location": "Gurjaani",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "გურჯაანი, ნონეშვილის ქ. 11",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ნონეშვილის+ქ.+11,გურჯაანი,Georgia&zoom=15"
+  },
+  {
+    "id": 23,
+    "location": "Akhaltsikhe",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ახალციხე, იაძის ქ. 6",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=იაძის+ქ.+6,ახალციხე,Georgia&zoom=15"
+  },
+  {
+    "id": 24,
+    "location": "Borjomi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ბორჯომი, რუსთაველის ქ. 147",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=რუსთაველის+ქ.+147,ბორჯომი,Georgia&zoom=15"
+  },
+  {
+    "id": 25,
+    "location": "Aspindza",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ასპინძა, ვარძიის ქ. 89",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ვარძიის+ქ.+89,ასპინძა,Georgia&zoom=15"
+  },
+  {
+    "id": 26,
+    "location": "Tbilisi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "Tbilisi. ვეკუას ქ. 14 (სავაჭრო ცენტრი \"გლდანი პლაზა\")",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ვეკუას+ქ.+14+(სავაჭრო+ცენტრი+\"გლდანი+პლაზა\"),Tbilisi,Georgia&zoom=15"
+  },
+  {
+    "id": 27,
+    "location": "Tsalenjikha",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "წალენჯიხა, გამსახურდიას ქ. 2",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=გამსახურდიას+ქ.+2,წალენჯიხა,Georgia&zoom=15"
+  },
+  {
+    "id": 28,
+    "location": "Martvili",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "მარტვილი, თავისუფლების ქ. 14",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=თავისუფლების+ქ.+14,მარტვილი,Georgia&zoom=15"
+  },
+  {
+    "id": 29,
+    "location": "Khobi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ხობი, დადიანის ქ. 190",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=დადიანის+ქ.+190,ხობი,Georgia&zoom=15"
+  },
+  {
+    "id": 30,
+    "location": "Mestia",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "მესტია, თამარ მეფის ქ. 52",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=თამარ+მეფის+ქ.+52,მესტია,Georgia&zoom=15"
+  },
+  {
+    "id": 31,
+    "location": "Zugdidi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ზუგდიდი, სოხუმის ქ. 73",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=სოხუმის+ქ.+73,ზუგდიდი,Georgia&zoom=15"
+  },
+  {
+    "id": 32,
+    "location": "Abasha",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "აბაშა, ჯორჯიკიას ქ. 6",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ჯორჯიკიას+ქ.+6,აბაშა,Georgia&zoom=15"
+  },
+  {
+    "id": 33,
+    "location": "Chkhorotsqu",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ჩხოროწყუ, კოსტავას ქ. 3",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=კოსტავას+ქ.+3,ჩხოროწყუ,Georgia&zoom=15"
+  },
+  {
+    "id": 34,
+    "location": "Kobuleti",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ქობულეთი, მემედ აბაშიძის ქ. 4",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=მემედ+აბაშიძის+ქ.+4,ქობულეთი,Georgia&zoom=15"
+  },
+  {
+    "id": 35,
+    "location": "Ozurgeti",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ოზურგეთი, გაბრიელ ეპისკოპოსის ქ. 5",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=გაბრიელ+ეპისკოპოსის+ქ.+5,ოზურგეთი,Georgia&zoom=15"
+  },
+  {
+    "id": 36,
+    "location": "Lanchkhuti",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ლანჩხუთი, ჟორდანიას ქ. 126",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ჟორდანიას+ქ.+126,ლანჩხუთი,Georgia&zoom=15"
+  },
+  {
+    "id": 37,
+    "location": "Keda",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ქედა, ჭავჭავაძის ქ. 9",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ჭავჭავაძის+ქ.+9,ქედა,Georgia&zoom=15"
+  },
+  {
+    "id": 38,
+    "location": "Shuakhevi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "შუახევი, რუსთაველის ქ. 1-3",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=რუსთაველის+ქ.+1-3,შუახევი,Georgia&zoom=15"
+  },
+  {
+    "id": 39,
+    "location": "Khulo",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ხულო, აბაშიძის ქ. 21",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=აბაშიძის+ქ.+21,ხულო,Georgia&zoom=15"
+  },
+  {
+    "id": 40,
+    "location": "Batumi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ბათუმი, ს.ხიმშიაშვილის ქ. 20",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ს.ხიმშიაშვილის+ქ.+20,ბათუმი,Georgia&zoom=15"
+  },
+  {
+    "id": 41,
+    "location": "Batumi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ბათუმი, მაიაკოვსკის ქ. 23",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=მაიაკოვსკის+ქ.+23,ბათუმი,Georgia&zoom=15"
+  },
+  {
+    "id": 42,
+    "location": "Dusheti",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "დუშეთი, სტალინის ქ. 31",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=სტალინის+ქ.+31,დუშეთი,Georgia&zoom=15"
+  },
+  {
+    "id": 43,
+    "location": "Mtskheta",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "მცხეთა, აღმაშენებლის ქ. 65",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=აღმაშენებლის+ქ.+65,მცხეთა,Georgia&zoom=15"
+  },
+  {
+    "id": 44,
+    "location": "Stepantsminda",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "სტეფანწმინდა, ყაზბეგის ქ. 4",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ყაზბეგის+ქ.+4,სტეფანწმინდა,Georgia&zoom=15"
+  },
+  {
+    "id": 45,
+    "location": "Marneuli",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "მარნეული, სულხან საბას ქ. # 2",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=სულხან+საბას+ქ.+#+2,მარნეული,Georgia&zoom=15"
+  },
+  {
+    "id": 46,
+    "location": "Samtredia",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "სამტრედია, გეგეშიძის ქ. 11",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=გეგეშიძის+ქ.+11,სამტრედია,Georgia&zoom=15"
+  },
+  {
+    "id": 47,
+    "location": "Khoni",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ხონი, ჭანტურიას ქ. 10",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ჭანტურიას+ქ.+10,ხონი,Georgia&zoom=15"
+  },
+  {
+    "id": 48,
+    "location": "Kutaisi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "Kutaisi, წერეთლის ქ. 163-165",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=წერეთლის+ქ.+163-165,Kutaisi,Georgia&zoom=15"
+  },
+  {
+    "id": 49,
+    "location": "Kutaisi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "Kutaisi, ავტომშენებლის ქ. 34",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ავტომშენებლის+ქ.+34,Kutaisi,Georgia&zoom=15"
+  },
+  {
+    "id": 50,
+    "location": "Kutaisi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "Kutaisi, ი. აბაშიძის ქ. 10",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ი.+აბაშიძის+ქ.+10,Kutaisi,Georgia&zoom=15"
+  },
+  {
+    "id": 51,
+    "location": "Kutaisi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "Kutaisi, ნიკეას #19",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ნიკეას+#19,Kutaisi,Georgia&zoom=15"
+  },
+  {
+    "id": 52,
+    "location": "Kutaisi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "Kutaisi, წერეთლის ქ. 12 / პუშკინის ქ. 11",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=წერეთლის+ქ.+12+/+პუშკინის+ქ.+11,Kutaisi,Georgia&zoom=15"
+  },
+  {
+    "id": 53,
+    "location": "Batumi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ბათუმი, აღმაშენებლის ქ. 20 ა",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=აღმაშენებლის+ქ.+20+ა,ბათუმი,Georgia&zoom=15"
+  },
+  {
+    "id": 54,
+    "location": "Tbilisi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "Tbilisi, სანაპიროს ქ. 2",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=სანაპიროს+ქ.+2,Tbilisi,Georgia&zoom=15"
+  },
+  {
+    "id": 55,
+    "location": "Terjola",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "თერჯოლა, ჭანტურიძის ქ. 2",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ჭანტურიძის+ქ.+2,თერჯოლა,Georgia&zoom=15"
+  },
+  {
+    "id": 56,
+    "location": "Tskaltubo",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "წყალტუბო, რუსთაველის ქ. 17",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=რუსთაველის+ქ.+17,წყალტუბო,Georgia&zoom=15"
+  },
+  {
+    "id": 57,
+    "location": "Kutaisi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "Kutaisi, მესხის ქ. 5ა",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=მესხის+ქ.+5ა,Kutaisi,Georgia&zoom=15"
+  },
+  {
+    "id": 58,
+    "location": "Kobuleti",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ქობულეთი, აღმაშენებლის ქ. 153",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=აღმაშენებლის+ქ.+153,ქობულეთი,Georgia&zoom=15"
+  },
+  {
+    "id": 59,
+    "location": "Qvareli",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ყვარელი, თავისუფლების ქ. 9",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=თავისუფლების+ქ.+9,ყვარელი,Georgia&zoom=15"
+  },
+  {
+    "id": 60,
+    "location": "Zugdidi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ზუგდიდი, გამსახურდიას ქ. 32",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=გამსახურდიას+ქ.+32,ზუგდიდი,Georgia&zoom=15"
+  },
+  {
+    "id": 61,
+    "location": "Zugdidi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ზუგდიდი, გამსახურდიას ქ. 219",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=გამსახურდიას+ქ.+219,ზუგდიდი,Georgia&zoom=15"
+  },
+  {
+    "id": 62,
+    "location": "Sachkhere",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "საჩხერე, კოსტავას ქ. 92",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=კოსტავას+ქ.+92,საჩხერე,Georgia&zoom=15"
+  },
+  {
+    "id": 63,
+    "location": "Chiatura",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ჭიათურა, ნინოშვილის ქ. 13",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ნინოშვილის+ქ.+13,ჭიათურა,Georgia&zoom=15"
+  },
+  {
+    "id": 64,
+    "location": "Mtskheta",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "მცხეთის რაიონი, სოფელი წეროვანი (დევნილთა დასახლება)",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=სოფელი+წეროვანი+(დევნილთა+დასახლება),მცხეთა,Georgia&zoom=15"
+  },
+  {
+    "id": 65,
+    "location": "Zestaponi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ზესტაფონი, აღმაშენებლის გამზ. 61",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=აღმაშენებლის+გამზ.+61,ზესტაფონი,Georgia&zoom=15"
+  },
+  {
+    "id": 66,
+    "location": "Rustavi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "რუსთავი, ტაშკენტის ქ. 5",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ტაშკენტის+ქ.+5,რუსთავი,Georgia&zoom=15"
+  },
+  {
+    "id": 67,
+    "location": "Rustavi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "რუსთავი, მეგობრობის გამზ. 3",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=მეგობრობის+გამზ.+3,რუსთავი,Georgia&zoom=15"
+  },
+  {
+    "id": 68,
+    "location": "Rustavi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "რუსთავი, კოსტავას ქ. 21",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=კოსტავას+ქ.+21,რუსთავი,Georgia&zoom=15"
+  },
+  {
+    "id": 69,
+    "location": "Batumi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ბათუმი, ტ. აბუსერიძის ქ. 26ბ",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ტ.+აბუსერიძის+ქ.+26ბ,ბათუმი,Georgia&zoom=15"
+  },
+  {
+    "id": 70,
+    "location": "Senaki",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "სენაკი, წმინდა ნინოს ქ. 14",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=წმინდა+ნინოს+ქ.+14,სენაკი,Georgia&zoom=15"
+  },
+  {
+    "id": 71,
+    "location": "Poti",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ფოთი, აღმაშენებლის ქ. 57",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=აღმაშენებლის+ქ.+57,ფოთი,Georgia&zoom=15"
+  },
+  {
+    "id": 72,
+    "location": "Gori",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "გორი, სამეფოს ქ. 43",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=სამეფოს+ქ.+43,გორი,Georgia&zoom=15"
+  },
+  {
+    "id": 73,
+    "location": "Akhmeta",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ახმეტა, ყაზბეგის ქ. 2",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ყაზბეგის+ქ.+2,ახმეტა,Georgia&zoom=15"
+  },
+  {
+    "id": 74,
+    "location": "Kaspi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "კასპი, სააკაძის ქ. 32",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=სააკაძის+ქ.+32,კასპი,Georgia&zoom=15"
+  },
+  {
+    "id": 75,
+    "location": "Sagarejo",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "საგარეჯო, აღმაშენებლის გამზ. 2",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=აღმაშენებლის+გამზ.+2,საგარეჯო,Georgia&zoom=15"
+  },
+  {
+    "id": 76,
+    "location": "Tbilisi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "Tbilisi, ანნა პოლიტკოვსკაიას #14",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ანნა+პოლიტკოვსკაიას+#14,Tbilisi,Georgia&zoom=15"
+  },
+  {
+    "id": 77,
+    "location": "Baghdati",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ბაღდათი, წერეთლის ქ. 12",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=წერეთლის+ქ.+12,ბაღდათი,Georgia&zoom=15"
+  },
+  {
+    "id": 78,
+    "location": "Tbilisi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "Tbilisi, კალოუბანის ქ. 8ა",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=კალოუბანის+ქ.+8ა,Tbilisi,Georgia&zoom=15"
+  },
+  {
+    "id": 79,
+    "location": "Ninotsminda",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ნინოწმინდა, თავისუფლების ქ. 22",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=თავისუფლების+ქ.+22,ნინოწმინდა,Georgia&zoom=15"
+  },
+  {
+    "id": 80,
+    "location": "Ambrolauri",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ამბროლაური, აღმაშენებლის ქ. 18",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=აღმაშენებლის+ქ.+18,ამბროლაური,Georgia&zoom=15"
+  },
+  {
+    "id": 81,
+    "location": "Gardabani",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "გარდაბანი, აღმაშენებლის გამზ. 89",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=აღმაშენებლის+გამზ.+89,გარდაბანი,Georgia&zoom=15"
+  },
+  {
+    "id": 82,
+    "location": "Vani",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ვანი, სოლომონ II ქ. 3",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=სოლომონ+II+ქ.+3,ვანი,Georgia&zoom=15"
+  },
+  {
+    "id": 83,
+    "location": "Tbilisi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "Tbilisi, ჩიტაიას ქ. 1-3",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ჩიტაიას+ქ.+1-3,Tbilisi,Georgia&zoom=15"
+  },
+  {
+    "id": 84,
+    "location": "Kharagauli",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ხარაგაული, გალაქტიონის ქ. 14",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=გალაქტიონის+ქ.+14,ხარაგაული,Georgia&zoom=15"
+  },
+  {
+    "id": 85,
+    "location": "Tianeti",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "თიანეთი, რუსთაველის ქ. 11",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=რუსთაველის+ქ.+11,თიანეთი,Georgia&zoom=15"
+  },
+  {
+    "id": 86,
+    "location": "Tbilisi",
+    "bankType": "Liberty",
+    "hours": [
+      "24/7"
+    ],
+    "status": "",
+    "address": "Tbilisi, ქ. წამებულის გამზ. 47/49",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ქ.+წამებულის+გამზ.+47/49,Tbilisi,Georgia&zoom=15"
+  },
+  {
+    "id": 87,
+    "location": "Tbilisi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "Tbilisi, მუხიანის გადასახვევი, მეტრო ახმეტელთან",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=მუხიანის+გადასახვევი,+მეტრო+ახმეტელთან,Tbilisi,Georgia&zoom=15"
+  },
+  {
+    "id": 88,
+    "location": "Tbilisi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "Tbilisi, კოსტავას ქ. 24",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=კოსტავას+ქ.+24,Tbilisi,Georgia&zoom=15"
+  },
+  {
+    "id": 89,
+    "location": "Tsageri",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ცაგერი, რუსთაველის ქ. 47",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=რუსთაველის+ქ.+47,ცაგერი,Georgia&zoom=15"
+  },
+  {
+    "id": 90,
+    "location": "Lentekhi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ლენტეხი, თამარ მეფის ქ. 32",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=თამარ+მეფის+ქ.+32,ლენტეხი,Georgia&zoom=15"
+  },
+  {
+    "id": 91,
+    "location": "Oni",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ონი, რუსთაველის ქ. 16",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=რუსთაველის+ქ.+16,ონი,Georgia&zoom=15"
+  },
+  {
+    "id": 92,
+    "location": "Lagodekhi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ლაგოდეხი, ქიზიყის ქ. 23",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ქიზიყის+ქ.+23,ლაგოდეხი,Georgia&zoom=15"
+  },
+  {
+    "id": 93,
+    "location": "Gori",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "გორი, სტალინის ქ. 26",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=სტალინის+ქ.+26,გორი,Georgia&zoom=15"
+  },
+  {
+    "id": 94,
+    "location": "Chokhatauri",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ჩოხატაური, დუმბაძის ქ. 17",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=დუმბაძის+ქ.+17,ჩოხატაური,Georgia&zoom=15"
+  },
+  {
+    "id": 95,
+    "location": "Dmanisi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "დმანისი, წმინდა ნინოს ჩიხი 29",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=წმინდა+ნინოს+ჩიხი+29,დმანისი,Georgia&zoom=15"
+  },
+  {
+    "id": 96,
+    "location": "Dedoplistsqaro",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "დედოფლისწყარო, ალაზნის ქ. 1",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ალაზნის+ქ.+1,დედოფლისწყარო,Georgia&zoom=15"
+  },
+  {
+    "id": 97,
+    "location": "Bolnisi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ბოლნისი, სულხან საბას ქ. 107",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=სულხან+საბას+ქ.+107,ბოლნისი,Georgia&zoom=15"
+  },
+  {
+    "id": 98,
+    "location": "Sighnaghi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "სიღნაღი, რუსთაველის ქ. 2",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=რუსთაველის+ქ.+2,სიღნაღი,Georgia&zoom=15"
+  },
+  {
+    "id": 99,
+    "location": "Kareli",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ქარელი, სტალინის ქ. 48",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=სტალინის+ქ.+48,ქარელი,Georgia&zoom=15"
+  },
+  {
+    "id": 100,
+    "location": "Batumi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ბათუმი, ფარნავაზ მეფის ქ. 62-64-66",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ფარნავაზ+მეფის+ქ.+62-64-66,ბათუმი,Georgia&zoom=15"
+  },
+  {
+    "id": 101,
+    "location": "Tbilisi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "Tbilisi, სანაპიროს ქ. 2ა",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=სანაპიროს+ქ.+2ა,Tbilisi,Georgia&zoom=15"
+  },
+  {
+    "id": 102,
+    "location": "Tbilisi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "Tbilisi, ვაჟა ფშაველას გამზ. 36",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ვაჟა+ფშაველას+გამზ.+36,Tbilisi,Georgia&zoom=15"
+  },
+  {
+    "id": 103,
+    "location": "Tbilisi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "Tbilisi, დუმბაძის ქ. 22",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=დუმბაძის+ქ.+22,Tbilisi,Georgia&zoom=15"
+  },
+  {
+    "id": 104,
+    "location": "Tbilisi",
+    "bankType": "Liberty",
+    "hours": [
+      "24/7"
+    ],
+    "status": "",
+    "address": "Tbilisi,ც.დადიანის ქ. 34",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ც.დადიანის+ქ.+34,Tbilisi,Georgia&zoom=15"
+  },
+  {
+    "id": 105,
+    "location": "Dusheti",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "დუშეთი, აღმაშენებლის ქ. 30",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=აღმაშენებლის+ქ.+30,დუშეთი,Georgia&zoom=15"
+  },
+  {
+    "id": 106,
+    "location": "Sagarejo",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "საგარეჯოს რაიონი, სოფელი უდაბნო",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=სოფელი+უდაბნო,საგარეჯო,Georgia&zoom=15"
+  },
+  {
+    "id": 107,
+    "location": "Marneuli",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "მარნეული, რუსთაველის ქ. 51",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=რუსთაველის+ქ.+51,მარნეული,Georgia&zoom=15"
+  },
+  {
+    "id": 108,
+    "location": "Tbilisi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "Tbilisi, ქავთარაძის 21",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ქავთარაძის+21,Tbilisi,Georgia&zoom=15"
+  },
+  {
+    "id": 109,
+    "location": "Khashuri",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ხაშური, კოსტავას ქ. 7",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=კოსტავას+ქ.+7,ხაშური,Georgia&zoom=15"
+  },
+  {
+    "id": 110,
+    "location": "Kareli",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "შიდა ქართლი, სოფელი რუისი",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=სოფელი+რუისი,ქარელი,Georgia&zoom=15"
+  },
+  {
+    "id": 111,
+    "location": "Tbilisi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "Tbilisi, შემოსავლელი გზის 36-ე კილომეტრი",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=შემოსავლელი+გზის+36-ე+კილომეტრი,Tbilisi,Georgia&zoom=15"
+  },
+  {
+    "id": 112,
+    "location": "Tkibuli",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ტყიბულის რაიონი, სოფელი საწირე",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=სოფელი+საწირე,ტყიბული,Georgia&zoom=15"
+  },
+  {
+    "id": 113,
+    "location": "Rustavi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "რუსთავი, წითელი ხიდის გზატკეცილი 21-ე კმ",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=წითელი+ხიდის+გზატკეცილი+21-ე+კმ,რუსთავი,Georgia&zoom=15"
+  },
+  {
+    "id": 114,
+    "location": "Gori",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "გორი, ჭავჭავაძის ქ. 56",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ჭავჭავაძის+ქ.+56,გორი,Georgia&zoom=15"
+  },
+  {
+    "id": 115,
+    "location": "Adigeni",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ადიგენი, თორნიკე ერისთავის ქ. 24",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=თორნიკე+ერისთავის+ქ.+24,ადიგენი,Georgia&zoom=15"
+  },
+  {
+    "id": 116,
+    "location": "Tbilisi",
+    "bankType": "Liberty",
+    "hours": [
+      "24/7"
+    ],
+    "status": "",
+    "address": "Tbilisi, გლდანის მე-3 მ/რ",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=გლდანის+მე-3+მ/რ,Tbilisi,Georgia&zoom=15"
+  },
+  {
+    "id": 117,
+    "location": "Zestaponi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ზესტაფონის რაიონი, სოფელი შორაპანი",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=სოფელი+შორაპანი,ზესტაფონი,Georgia&zoom=15"
+  },
+  {
+    "id": 118,
+    "location": "Batumi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ბათუმი, სულხან-საბას 2 მოპირდაპირედ",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=სულხან-საბას+2+მოპირდაპირედ,ბათუმი,Georgia&zoom=15"
+  },
+  {
+    "id": 119,
+    "location": "Batumi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ბათუმი, ჯავახიშვილის ქ. 80",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ჯავახიშვილის+ქ.+80,ბათუმი,Georgia&zoom=15"
+  },
+  {
+    "id": 120,
+    "location": "Akhalkalaki",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ახალქალაქი, თამარ მეფის გამზ. 62",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=თამარ+მეფის+გამზ.+62,ახალქალაქი,Georgia&zoom=15"
+  },
+  {
+    "id": 121,
+    "location": "Khelvachauri",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ხელვაჩაური, თამარ მეფის გამზ. 8",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=თამარ+მეფის+გამზ.+8,ხელვაჩაური,Georgia&zoom=15"
+  },
+  {
+    "id": 122,
+    "location": "Tbilisi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "Tbilisi, რუსთავის გზატკეცილი 19, კორპუსი 4",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=რუსთავის+გზატკეცილი+19,+კორპუსი+4,Tbilisi,Georgia&zoom=15"
+  },
+  {
+    "id": 123,
+    "location": "Tbilisi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "Tbilisi, ბოგდან ხმელნიცკის ქ. 151",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ბოგდან+ხმელნიცკის+ქ.+151,Tbilisi,Georgia&zoom=15"
+  },
+  {
+    "id": 124,
+    "location": "Batumi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ბათუმი, ბარათაშვილის ქ. 24",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ბარათაშვილის+ქ.+24,ბათუმი,Georgia&zoom=15"
+  },
+  {
+    "id": 125,
+    "location": "Vani",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ვანის რაიონი, სოფელი ზეინდარი",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=სოფელი+ზეინდარი,ვანი,Georgia&zoom=15"
+  },
+  {
+    "id": 126,
+    "location": "Tbilisi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "Tbilisi, ხიზანიშვილის ქ. 13",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ხიზანიშვილის+ქ.+13,Tbilisi,Georgia&zoom=15"
+  },
+  {
+    "id": 127,
+    "location": "Lanchkhuti",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ლანჩხუთის რაიონი, სოფელი ნიგოეთი",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=სოფელი+ნიგოეთი,ლანჩხუთი,Georgia&zoom=15"
+  },
+  {
+    "id": 128,
+    "location": "Tkibuli",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ტყიბული, გელათის ქ. 18",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=გელათის+ქ.+18,ტყიბული,Georgia&zoom=15"
+  },
+  {
+    "id": 129,
+    "location": "Stepantsminda",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "სტეფანწმინდის რაიონი, ლარსის საბაჟო გამშვები პუნქტი (საქართველო-რუსეთის საზღვარი)",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ლარსის+საბაჟო+გამშვები+პუნქტი+(საქართველო-რუსეთის+საზღვარი),სტეფანწმინდა,Georgia&zoom=15"
+  },
+  {
+    "id": 130,
+    "location": "Khobi",
+    "bankType": "Liberty",
+    "hours": [
+      "10:00-17:30"
+    ],
+    "status": "",
+    "address": "ხობის რაიონი, სოფელი ჭალადიდი",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=სოფელი+ჭალადიდი,ხობი,Georgia&zoom=15"
+  },
+  {
+    "id": 131,
+    "location": "Akhalkalaki",
+    "bankType": "Other",
+    "hours": [
+      "00:00-23:59"
+    ],
+    "status": "",
+    "address": "ჩარენცის ქ. 1, ახალქალაქი",
+    "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=სოფელი+ჭალადიდი,ხობი,Georgia&zoom=15"
+  }
+]
