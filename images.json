@@ -1,22 +1,22 @@
 {
   "locales": {
     "en": {
-      "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/a2bf1e73-9617-4d7f-b470-e2faea9a8b79/Prematch_Popup_English.jpg?auto=format%2Ccompress",
+      "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/359f8878-2f7a-400c-811c-10fc9f6aaea2/Popup%20PSG%20Winner.png?auto=format%2Ccompress",
       "link": "/sportsbook",
       "linkType": "href"
     },
     "ka": {
-      "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/aa7ae5b7-645f-4f8f-826c-a85c60c72700/Prematch_Popup_Georgian.jpg?auto=format%2Ccompress",
+      "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/359f8878-2f7a-400c-811c-10fc9f6aaea2/Popup%20PSG%20Winner.png?auto=format%2Ccompress",
       "link": "/sportsbook",
       "linkType": "href"
     },
     "ru": {
-      "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/6ef9fc54-141b-4019-af01-c80275e27dc5/Prematch_Popup_Russian.jpg?auto=format%2Ccompress",
+      "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/359f8878-2f7a-400c-811c-10fc9f6aaea2/Popup%20PSG%20Winner.png?auto=format%2Ccompress",
       "link": "/sportsbook",
       "linkType": "href"
     },
     "tr": {
-      "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/a2bf1e73-9617-4d7f-b470-e2faea9a8b79/Prematch_Popup_English.jpg?auto=format%2Ccompress",
+      "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/359f8878-2f7a-400c-811c-10fc9f6aaea2/Popup%20PSG%20Winner.png?auto=format%2Ccompress",
       "link": "/sportsbook",
       "linkType": "href"
     }
