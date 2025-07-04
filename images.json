@@ -1,23 +1,23 @@
 {
   "locales": {
     "en": {
-      "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/da089772-6a85-4501-926c-7e25720718b1/__________1.jpg?auto=format%2Ccompress",
-      "link": "/slots/endorphina",
+      "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/8ac23f5a-8400-4b29-9674-f6fd4f4d4d77/main-offers_eng.jpg",
+      "link": "/sportsbook/championship/31699",
       "linkType": "href"
     },
     "ka": {
-      "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/da089772-6a85-4501-926c-7e25720718b1/__________1.jpg?auto=format%2Ccompress",
-      "link": "/slots/endorphina",
+      "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/161c50f4-8b44-46fe-b566-fa4a597682fb/main-offers.jpg",
+      "link": "/sportsbook/championship/31699",
       "linkType": "href"
     },
     "ru": {
-      "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/da089772-6a85-4501-926c-7e25720718b1/__________1.jpg?auto=format%2Ccompress",
-      "link": "/slots/endorphina",
+      "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/677eb872-fedd-414b-b7b0-21df3f4ed447/main-offers_rus.jpg",
+      "link": "/sportsbook/championship/31699",
       "linkType": "href"
     },
     "tr": {
-      "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/da089772-6a85-4501-926c-7e25720718b1/__________1.jpg?auto=format%2Ccompress",
-      "link": "/slots/endorphina",
+      "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/8ac23f5a-8400-4b29-9674-f6fd4f4d4d77/main-offers_eng.jpg",
+      "link": "/sportsbook/championship/31699",
       "linkType": "href"
     }
   }
