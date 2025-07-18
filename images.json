@@ -2,22 +2,22 @@
   "locales": {
     "en": {
       "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/c344a569-ed6f-43dd-bda4-37a8aaaa835c/kaaa_offers.jpg",
-      "link": "/leaderboard-55",
+      "link": "/slots/egt",
       "linkType": "href"
     },
     "ka": {
       "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/57ffca6d-9a63-4e3b-9eaa-47f9ed8e9a4e/1276_X_720__.jpg",
-      "link": "/leaderboard-55",
+      "link": "/slots/egt",
       "linkType": "href"
     },
     "ru": {
       "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/43371d54-1718-4fd4-848b-a0636b9649fd/rruss_offers.jpg",
-      "link": "/leaderboard-55",
+      "link": "/slots/egt",
       "linkType": "href"
     },
     "tr": {
       "imageUrl": "https://images.takeshape.io/5da2b4d5-59f6-412a-82c3-f6a272b532be/dev/c344a569-ed6f-43dd-bda4-37a8aaaa835c/kaaa_offers.jpg",
-      "link": "/leaderboard-55",
+      "link": "/slots/egt",
       "linkType": "href"
     }
   }
