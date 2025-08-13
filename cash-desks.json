@@ -1429,8 +1429,19 @@
     "address": "ხობის რაიონი, სოფელი ჭალადიდი",
     "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=სოფელი+ჭალადიდი,ხობი,Georgia&zoom=15"
   },
-  {
+      {
     "id": 131,
+    "location": "Kutaisi",
+    "bankType": "Other",
+    "hours": [
+      "00:00-23:59"
+    ],
+    "status": "",
+    "address": "ქუთაისში, ჭავჭავაძის ქუჩა N105-ში.",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d414.24319321189256!2d42.67419274092023!3d42.270203201110675!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sge!4v1755089804447!5m2!1sen!2sge"
+  },
+  {
+    "id": 132,
     "location": "Akhalkalaki",
     "bankType": "Other",
     "hours": [
