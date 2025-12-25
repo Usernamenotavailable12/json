@@ -1429,8 +1429,19 @@
     "address": "ხობის რაიონი, სოფელი ჭალადიდი",
     "mapLink": "https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=სოფელი+ჭალადიდი,ხობი,Georgia&zoom=15"
   },
-      {
+   {
     "id": 131,
+    "location": "Poti",
+    "bankType": "Other",
+    "hours": [
+      "SOON"
+    ],
+    "status": "",
+    "address": "ფოთი, სამეგრელოს მოედანი.",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d104164.95974408463!2d41.519003186334615!3d42.13891403287328!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x405db8f761243629%3A0x8797cfa4fd29f38c!2sPoti!5e1!3m2!1sen!2sge!4v1766660731089!5m2!1sen!2sge"
+  },
+  {
+    "id": 132,
     "location": "Kutaisi",
     "bankType": "Other",
     "hours": [
@@ -1441,7 +1452,7 @@
     "mapLink": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d414.24319321189256!2d42.67419274092023!3d42.270203201110675!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sge!4v1755089804447!5m2!1sen!2sge"
   },
   {
-    "id": 132,
+    "id": 133,
     "location": "Akhalkalaki",
     "bankType": "Other",
     "hours": [
