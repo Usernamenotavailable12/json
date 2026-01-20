@@ -1442,6 +1442,17 @@
   },
   {
     "id": 132,
+    "location": "Marneuli",
+    "bankType": "Other",
+    "hours": [
+      "მალე: 032-21-21-700"
+    ],
+    "status": "",
+    "address": "მარნეული, რუსთაველის 29",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52683.848961670534!2d44.75618102638182!3d41.47924896890534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4043fc74f05c7d8f%3A0x3202ec53644a310!2sMarneuli!5e1!3m2!1sen!2sge!4v1768912870818!5m2!1sen!2sge"
+  },
+  {
+    "id": 133,
     "location": "Kutaisi",
     "bankType": "Other",
     "hours": [
@@ -1452,7 +1463,7 @@
     "mapLink": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d414.24319321189256!2d42.67419274092023!3d42.270203201110675!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sge!4v1755089804447!5m2!1sen!2sge"
   },
   {
-    "id": 133,
+    "id": 134,
     "location": "Akhalkalaki",
     "bankType": "Other",
     "hours": [
