@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "default": { "src": "/assets/flying/71YMG412BV.gif" },
+  "default": { "src": "/assets/flying/71YMG412BV.gif", "dismissible": true },
   "users": {
-    "rYgYmstPHIU3ZTHJE0iy": { "src": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnF3NGduNDZkbmVwbWgzZnZ4aGtycjVrOGM3N3F5MWpndnU5MmRtYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0OWjzSZEROpjIqRi/giphy.gif" },
-    "LNGg6F3q8x8j6op9012r": { "src": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnF3NGduNDZkbmVwbWgzZnZ4aGtycjVrOGM3N3F5MWpndnU5MmRtYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0OWjzSZEROpjIqRi/giphy.gif" }
+    "rYgYmstPHIU3ZTHJE0iy": { "src": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnF3NGduNDZkbmVwbWgzZnZ4aGtycjVrOGM3N3F5MWpndnU5MmRtYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0OWjzSZEROpjIqRi/giphy.gif", "dismissible": true },
+    "LNGg6F3q8x8j6op9012r": { "src": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnF3NGduNDZkbmVwbWgzZnZ4aGtycjVrOGM3N3F5MWpndnU5MmRtYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0OWjzSZEROpjIqRi/giphy.gif", "dismissible": true }
   }
 }
