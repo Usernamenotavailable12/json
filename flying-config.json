@@ -2,6 +2,6 @@
   "enabled": true,
   "default": { "src": "/assets/flying/71YMG412BV.gif" },
   "users": {
-    "5jmiadMtCxrmcsmseAdc": { "src": "/assets/flying/default.avif" }
+    "5jmiadMtCxrmcsmseAdc": { "src": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnF3NGduNDZkbmVwbWgzZnZ4aGtycjVrOGM3N3F5MWpndnU5MmRtYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0OWjzSZEROpjIqRi/giphy.gif" }
   }
 }
