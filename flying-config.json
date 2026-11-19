@@ -1,8 +1,7 @@
 {
-  "enabled": true,
+  "enabled": false,
   "default": { "src": "/assets/flying/71YMG412BV.gif", "dismissible": true },
   "users": {
-    "LNGg6F3q8x8j6op9012r": { "src": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnF3NGduNDZkbmVwbWgzZnZ4aGtycjVrOGM3N3F5MWpndnU5MmRtYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0OWjzSZEROpjIqRi/giphy.gif", "dismissible": true },
     "NZGzSr7H28bIecBpZrg1": null,
     "rYgYmstPHIU3ZTHJE0iy": null
   }
