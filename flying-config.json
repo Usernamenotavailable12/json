@@ -1,8 +1,8 @@
 {
-  "enabled": false,
+  "enabled": true,
   "default": { "src": "/assets/flying/71YMG412BV.gif", "dismissible": true },
   "users": {
-    "NZGzSr7H28bIecBpZrg1": null,
-    "rYgYmstPHIU3ZTHJE0iy": null
+    "LNGg6F3q8x8j6op9012r": { "src": "/assets/flying/71YMG412BV.gif", "dismissible": true },
+    "NZGzSr7H28bIecBpZrg1": null
   }
 }
