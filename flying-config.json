@@ -2,7 +2,7 @@
   "enabled": true,
   "default": { "src": "/assets/flying/71YMG412BV.gif", "dismissible": true },
   "users": {
-    "LNGg6F3q8x8j6op9012r": { "src": "https://i.postimg.cc/WtRjnbf4/image-(4).png", "dismissible": true },
-    "NZGzSr7H28bIecBpZrg1": null
+    "LNGg6F3q8x8j6op9012r": { "src": "/assets/flying/71YMG412BV.gif", "dismissible": true },
+    "NZGzSr7H28bIecBpZrg1": { "src": "https://i.postimg.cc/WtRjnbf4/image-(4).png", "dismissible": true }
   }
 }
